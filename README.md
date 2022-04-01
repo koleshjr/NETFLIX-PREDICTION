@@ -1,4 +1,6 @@
 # NETFLIX-PREDICTION
+https://www.kaggle.com/competitions/netflix-appetency/overview
+
 Netflix Appetency
 
 Objective of this contest:
